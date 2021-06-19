@@ -1,5 +1,7 @@
 # Hello Github
-I'm Mehedi Rahman Mahi, a tenth grader from BPATC School, Dhaka. I like to explore FOSS and , yes, you've guessed right. I use Arch btw.
+I'm Mehedi Rahman Mahi, a tenth grader from BPATC School, Dhaka. I like to explore FOSS and yes, you've guessed right... I use Arch btw.
+
+![](https://komarev.com/ghpvc/?username=cakemeow&color=green)
 
 ## My Skills
 
