@@ -17,3 +17,6 @@ I'm Mehedi Rahman Mahi, a tenth grader from Bangladesh. I like to explore FOSS a
   ![](https://img.shields.io/badge/Misc-UX_designing-blue)
 
 Currently I'm learning C++, Python, competitive programming and Web development. Hope that one day I'll shine :D
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=cakemeow&show_icons=true&locale=en" alt="cakemeow" /></p>
+
