@@ -7,14 +7,14 @@ I'm Mehedi Rahman Mahi, a tenth grader from Bangladesh. I like to explore FOSS a
 
   ![](https://img.shields.io/badge/OS-Linux-blueviolet)
   
-  ![](https://img.shields.io/badge/Web-Frontend-blue)
+  ![](https://img.shields.io/badge/Web-Frontend-yellowgreen)
   ![](https://img.shields.io/badge/Web-HTML-yellowgreen)
-  ![](https://img.shields.io/badge/Web-CSS-yellow)
+  ![](https://img.shields.io/badge/Web-CSS-yellowgreen)
   
   ![](https://img.shields.io/badge/Language-C%2B%2B-green)
   
   ![](https://img.shields.io/badge/Misc-Typing-red)
-  ![](https://img.shields.io/badge/Misc-UX_designing-blue)
+  ![](https://img.shields.io/badge/Misc-UX_designing-red)
 
 Currently I'm learning C++, Python, competitive programming and Web development. Hope that one day I'll shine :D
 
