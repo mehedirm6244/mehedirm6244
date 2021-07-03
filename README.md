@@ -2,10 +2,8 @@
 I'm Mehedi Rahman Mahi, a tenth grader from Bangladesh. I like to explore FOSS and yes... I use Arch btw.
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cakemeow&show_icons=true&locale=en" alt="cakemeow" /></p>
-
-
-<!--![](https://komarev.com/ghpvc/?username=cakemeow&color=green)-->
+<img src="https://github-readme-stats.vercel.app/api?username=cakemeow&show_icons=true&locale=en" alt="cakemeow" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakemeow&layout=compact" />
 
 ## My Skills
 
