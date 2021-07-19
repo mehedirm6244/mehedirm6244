@@ -2,8 +2,8 @@
 I'm <b>Mehedi Rahman Mahi</b>, a tenth grader from Bangladesh. I like to explore FOSS and yes... I use Arch btw.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehedirm&show_icons=true&locale=en" alt="mehedirm" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedirm&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=c3kme0w&show_icons=true&locale=en" alt="c3kme0w" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c3kme0w&layout=compact" />
 
 ## My Skills
 
